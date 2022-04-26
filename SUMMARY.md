@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Discord 101](README.md)
