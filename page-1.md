@@ -21,6 +21,21 @@ On Discord, there are many methods of communication. While some concepts are mor
   - Mentions
   - Emojis
   - Files
+  - Special Discord Messages
+    - Ephmeral Messages
+    - Bot Embedded Messages
+    - Webhooks
+- Markdown & Other Discord Syntax
+  Discord supports Markdown
+  | Type | Syntax | Example | Additional Info |
+  | --- | --- | --- | --- |
+  | Italics | `*I am italicized!*` | *I am italicized!* | | 
+  | Bold | `*I am italicized!*` | *I am italicized!* | |
+  | Underline | `*I am italicized!*` | *I am italicized!* | | 
+  | Inline Code | `*I am italicized!*` | *I am italicized!* | | 
+  | Code Block | `*I am italicized!*` | *I am italicized!* | |
+  | Links | `*I am italicized!*` | *I am italicized!* | |
+  | @silent | `@silent` | | |
 - Bot Commands
   - Slash Commands
   - Plaintext Commands
