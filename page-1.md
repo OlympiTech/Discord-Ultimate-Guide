@@ -1,5 +1,35 @@
-# Installing
+# The Basics
+> [!NOTE]
+> You can find a Table of Contents [here](SUMMARY.md).
+## Installation
+### Supported OS'
+You can download Discord on both desktop and mobile devices. 
+### How to Download
+- Desktop
+  - Windows
+  - MacOS
+  - Linux
+- Mobile
+  - iOS
+  - Android
+## Joining Servers
 
-## Supported OS'
-
-## How to Download
+## Communication
+On Discord, there are many methods of communication. While some concepts are more trivial, like standard messaging, Discord also supports more advanced forms of messaging. This guide will attempt to detail both, starting with the more common methods.
+- Basic Messages
+  - Images
+  - Mentions
+  - Emojis
+  - Files
+- Bot Commands
+  - Slash Commands
+  - Plaintext Commands
+- Voice Channels
+  - Voice Configuration
+  - Streaming
+  - Screensharing
+## Help
+<details>
+  <summary>Text</summary>
+  Text
+</details>
