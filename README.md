@@ -29,7 +29,7 @@ Discord is a VoIP, instant messaging and digital distribution social media platf
 
 The purpose of this guide is to simplify the otherwise complicated elements of Discord, such as _Permissions._ However, no guide would be complete without coving the basics. So, with that in mind, here is a non-exhaustive overview of the basic Discord features.
 
-> If you already know how to use Discord, you may skip ahead to [here](page-2.md)
+> If you already know how to use Discord, you may skip ahead to [here](https://github.com/OlympiTech/Discord-Ultimate-Guide/blob/Dev/page-2.md)
 
 ## The Basics
 
