@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Discord 101](README.md)
+* [Ultimate Discord Guide](README.md)
 * [Installing](page-1.md)
